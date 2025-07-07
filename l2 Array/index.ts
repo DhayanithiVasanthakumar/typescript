@@ -44,4 +44,3 @@ drinks.map((coolDrinks :{color:string;sugar?:number})=>{
     //array va illama oru oru object ah print aagi iruku
     console.log(coolDrinks);
 })
-
